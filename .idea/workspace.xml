@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/213-houseRobber2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/337-houseRobber3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/412-fizzBuzz.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="198-houseRobber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/198-houseRobber.py">
+      <file leaf-file-name="213-houseRobber2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/213-houseRobber2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="213-houseRobber2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/213-houseRobber2.py">
+      <file leaf-file-name="337-houseRobber3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/337-houseRobber3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="412-fizzBuzz.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/412-fizzBuzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -59,6 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/198-houseRobber.py" />
         <option value="$PROJECT_DIR$/213-houseRobber2.py" />
+        <option value="$PROJECT_DIR$/337-houseRobber3.py" />
+        <option value="$PROJECT_DIR$/412-fizzBuzz.py" />
       </list>
     </option>
   </component>
@@ -117,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.213-houseRobber2">
+  <component name="RunManager" selected="Python.412-fizzBuzz">
     <configuration name="198-houseRobber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,6 +165,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="412-fizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/412-fizzBuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="66-plusOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,16 +199,18 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.66-plusOne" />
       <item index="1" class="java.lang.String" itemvalue="Python.198-houseRobber" />
       <item index="2" class="java.lang.String" itemvalue="Python.213-houseRobber2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.412-fizzBuzz" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.213-houseRobber2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.198-houseRobber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.66-plusOne" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.412-fizzBuzz" />
+        <item index="1" class="java.lang.String" itemvalue="Python.213-houseRobber2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.198-houseRobber" />
+        <item index="3" class="java.lang.String" itemvalue="Python.66-plusOne" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520695313194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="213">
+      <created>1520701460972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520701460972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -284,7 +323,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="z" />
     <MESSAGE value="198" />
-    <option name="LAST_COMMIT_MESSAGE" value="198" />
+    <MESSAGE value="213" />
+    <option name="LAST_COMMIT_MESSAGE" value="213" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -353,8 +393,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/213-houseRobber2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/337-houseRobber3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/412-fizzBuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
