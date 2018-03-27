@@ -11,5 +11,5 @@ class Solution(object):
             head = head.next
             curr.next = prev
             prev = curr
-        return curr
+        return prev
 
