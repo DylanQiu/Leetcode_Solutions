@@ -11,3 +11,18 @@ class Solution(object):
         :type n: int
         :rtype: ListNode
         """
+        l = head
+        count = 0
+        if n == 0:
+            return head
+        while l:
+            count += 1
+            l = l.next
+        step = count-n
+        if step == 0:
+            return head.next
+        l = head
+        for i in xrange(1, step):
+            l = l.next
+        l.next = l.next.next
+        return head
