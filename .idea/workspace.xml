@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/409-longestPalindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/414-thirdMaximumNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="367-validPerfectSquare.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/367-validPerfectSquare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="371-sumOfIntegers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/371-sumOfIntegers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="409-longestPalindrome.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="409-longestPalindrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/409-longestPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="414-thirdMaximumNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/414-thirdMaximumNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/796-rotateString.py" />
         <option value="$PROJECT_DIR$/203-removeLinkedListElements.py" />
         <option value="$PROJECT_DIR$/204-countPrimes.py" />
         <option value="$PROJECT_DIR$/205-isomorphicStrings.py" />
@@ -188,10 +187,11 @@
         <option value="$PROJECT_DIR$/404-sumOfLeftLeaves.py" />
         <option value="$PROJECT_DIR$/405-convertANumberToHexadecimal.py" />
         <option value="$PROJECT_DIR$/409-longestPalindrome.py" />
+        <option value="$PROJECT_DIR$/414-thirdMaximumNumber.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
@@ -642,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531698903898</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="5">
+      <created>1531700114737</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1531700114737</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView">
@@ -655,7 +662,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20678514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -734,13 +741,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/217-containsDuplicate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/796-rotateString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1090,7 +1090,15 @@
     <entry file="file://$PROJECT_DIR$/409-longestPalindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/414-thirdMaximumNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
