@@ -11,3 +11,13 @@ class Solution(object):
         :type root: Node
         :rtype: List[List[int]]
         """
+        queue = [root]
+        res = []
+        # level = []
+        while any(queue):
+            res.append([node.val for node in queue])
+            # for node in queue:
+            #     for child in node.children:
+            #         queue.append(child)
+            queue = [child for node in queue for child in node.children if not None]
+        return res
