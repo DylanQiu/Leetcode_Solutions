@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/438-findAllAnagramsInAString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/441-arrangingCoins.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="438-findAllAnagramsInAString.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="438-findAllAnagramsInAString.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/438-findAllAnagramsInAString.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="441-arrangingCoins.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/441-arrangingCoins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -127,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/232-implementQueueUsingStacks.py" />
         <option value="$PROJECT_DIR$/206-reverseLinkedList.py" />
         <option value="$PROJECT_DIR$/234-palindromeLinkedList.py" />
         <option value="$PROJECT_DIR$/235-lowestCommonAncestorOfABinarySearchTree.py" />
@@ -178,6 +187,7 @@
         <option value="$PROJECT_DIR$/434-numberOfSegmentsInAString.py" />
         <option value="$PROJECT_DIR$/437-pathSumIII.py" />
         <option value="$PROJECT_DIR$/438-findAllAnagramsInAString.py" />
+        <option value="$PROJECT_DIR$/441-arrangingCoins.py" />
       </list>
     </option>
   </component>
@@ -675,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532103104498</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="5">
+      <created>1532109851802</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1532109851802</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView">
@@ -767,13 +784,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2-addTwoNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/290-wordPattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1135,6 +1145,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/441-arrangingCoins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>
