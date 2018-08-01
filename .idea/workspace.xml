@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/479-largestPalindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/482-licenseKeyFormatting.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="479-largestPalindrome.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="479-largestPalindrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/479-largestPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="482-licenseKeyFormatting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/482-licenseKeyFormatting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -47,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5-longestPalindromicSubstring.py" />
         <option value="$PROJECT_DIR$/6-zigZagConversion.py" />
         <option value="$PROJECT_DIR$/11-containerWithMostWater.py" />
         <option value="$PROJECT_DIR$/12-integerToRoman.py" />
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/475-heaters.py" />
         <option value="$PROJECT_DIR$/476-numberComplement.py" />
         <option value="$PROJECT_DIR$/479-largestPalindrome.py" />
+        <option value="$PROJECT_DIR$/482-licenseKeyFormatting.py" />
       </list>
     </option>
   </component>
@@ -272,13 +282,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00011" summary="204">
-      <created>1522038726659</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1522038726659</updated>
     </task>
     <task id="LOCAL-00012" summary="205">
       <created>1522069473816</created>
@@ -616,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533163118917</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="461">
+      <created>1533164253909</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1533164253909</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView">
@@ -709,13 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/18-4Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/17-letterCombinationsOfaPhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1007,6 +1010,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,6 +1070,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/482-licenseKeyFormatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
