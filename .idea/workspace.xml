@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/455-assignCookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/458-poorPigs.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="429-naryTreeLevelOrdertraversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/429-naryTreeLevelOrdertraversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="434-numberOfSegmentsInAString.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/434-numberOfSegmentsInAString.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="455-assignCookies.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="455-assignCookies.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/455-assignCookies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="55" />
+            <state relative-caret-position="345">
+              <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="458-poorPigs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/458-poorPigs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -137,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/257-binaryTreePaths.py" />
         <option value="$PROJECT_DIR$/258-addDigits.py" />
         <option value="$PROJECT_DIR$/290-wordPattern.py" />
         <option value="$PROJECT_DIR$/2-addTwoNumbers.py" />
@@ -188,6 +187,7 @@
         <option value="$PROJECT_DIR$/448-findAllNumbersDesappearedInAnArray.py" />
         <option value="$PROJECT_DIR$/453-minimumMovesToEqualArrayElements.py" />
         <option value="$PROJECT_DIR$/455-assignCookies.py" />
+        <option value="$PROJECT_DIR$/458-poorPigs.py" />
       </list>
     </option>
   </component>
@@ -246,24 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.455-assignCookies">
-    <configuration name="349-intersectionOfTwoArrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/349-intersectionOfTwoArrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.458-poorPigs">
     <configuration name="367-validPerfectSquare" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,20 +315,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="458-poorPigs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/458-poorPigs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.349-intersectionOfTwoArrays" />
-      <item index="1" class="java.lang.String" itemvalue="Python.367-validPerfectSquare" />
-      <item index="2" class="java.lang.String" itemvalue="Python.387-firstUniqueCharacterInaString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.434-numberOfSegmentsInAString" />
-      <item index="4" class="java.lang.String" itemvalue="Python.455-assignCookies" />
+      <item index="0" class="java.lang.String" itemvalue="Python.367-validPerfectSquare" />
+      <item index="1" class="java.lang.String" itemvalue="Python.387-firstUniqueCharacterInaString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.434-numberOfSegmentsInAString" />
+      <item index="3" class="java.lang.String" itemvalue="Python.455-assignCookies" />
+      <item index="4" class="java.lang.String" itemvalue="Python.458-poorPigs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.455-assignCookies" />
-        <item index="1" class="java.lang.String" itemvalue="Python.434-numberOfSegmentsInAString" />
-        <item index="2" class="java.lang.String" itemvalue="Python.387-firstUniqueCharacterInaString" />
-        <item index="3" class="java.lang.String" itemvalue="Python.367-validPerfectSquare" />
-        <item index="4" class="java.lang.String" itemvalue="Python.349-intersectionOfTwoArrays" />
+        <item index="0" class="java.lang.String" itemvalue="Python.458-poorPigs" />
+        <item index="1" class="java.lang.String" itemvalue="Python.455-assignCookies" />
+        <item index="2" class="java.lang.String" itemvalue="Python.434-numberOfSegmentsInAString" />
+        <item index="3" class="java.lang.String" itemvalue="Python.387-firstUniqueCharacterInaString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.367-validPerfectSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -362,13 +362,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00004" summary="213">
-      <created>1520701460972</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1520701460972</updated>
     </task>
     <task id="LOCAL-00005" summary="337,412">
       <created>1520726810873</created>
@@ -706,7 +699,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532999612752</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="5">
+      <created>1533094247024</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1533094247025</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -724,7 +724,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3176734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822478" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26375908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26272067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15991692" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -797,13 +797,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/234-palindromeLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-medianOfTwoSortedArrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1159,8 +1152,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/455-assignCookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="55" />
+        <state relative-caret-position="345">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/458-poorPigs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
