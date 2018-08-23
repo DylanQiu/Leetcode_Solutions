@@ -11,3 +11,12 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+        def dfs(node, l=[]):
+            if node.left:
+                dfs(node.left, l)
+            l.append(node.val)
+            if node.right:
+                dfs(node.right, l)
+            return l
+        l = dfs(root)
+        return min([abs(a-b) for a,b in zip(l, l[1:])])
