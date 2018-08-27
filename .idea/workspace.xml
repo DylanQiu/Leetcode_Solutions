@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/538-convertBST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/541-reverseStr.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="538-convertBST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="538-convertBST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/538-convertBST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="541-reverseStr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/541-reverseStr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -67,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/326-powerOfThree.py" />
         <option value="$PROJECT_DIR$/342-powerOfFour.py" />
         <option value="$PROJECT_DIR$/344-reserveString.py" />
         <option value="$PROJECT_DIR$/345-reverseVowelsOfAString.py" />
@@ -118,6 +127,7 @@
         <option value="$PROJECT_DIR$/532-findPairs.py" />
         <option value="$PROJECT_DIR$/528-convertBST.py" />
         <option value="$PROJECT_DIR$/538-convertBST.py" />
+        <option value="$PROJECT_DIR$/541-reverseStr.py" />
       </list>
     </option>
   </component>
@@ -292,13 +302,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00025" summary="5">
-      <created>1530969252133</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1530969252133</updated>
     </task>
     <task id="LOCAL-00026" summary="5">
       <created>1530974588207</created>
@@ -636,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535340663522</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="482">
+      <created>1535374168730</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1535374168730</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -729,13 +739,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/345-reverseVowelsOfAString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/349-intersectionOfTwoArrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1027,6 +1030,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="1920" column="8" lean-forward="false" selection-start-line="1920" selection-start-column="8" selection-end-line="1920" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,7 +1089,15 @@
     <entry file="file://$PROJECT_DIR$/538-convertBST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/541-reverseStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="49" />
           <folding />
         </state>
       </provider>
