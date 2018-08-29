@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/559-maxDepth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/561-arrayPairSum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="558-intersect.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/558-intersect.py">
+      <file leaf-file-name="561-arrayPairSum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/561-arrayPairSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="559-maxDepth.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/559-maxDepth.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="67" />
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -57,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/350-intersectionOfTwoArrays2.py" />
         <option value="$PROJECT_DIR$/367-validPerfectSquare.py" />
         <option value="$PROJECT_DIR$/371-sumOfIntegers.py" />
         <option value="$PROJECT_DIR$/374-guessNumberHigherOrLower.py" />
@@ -108,6 +97,7 @@
         <option value="$PROJECT_DIR$/551-checkRecord.py" />
         <option value="$PROJECT_DIR$/558-intersect.py" />
         <option value="$PROJECT_DIR$/559-maxDepth.py" />
+        <option value="$PROJECT_DIR$/561-arrayPairSum.py" />
       </list>
     </option>
   </component>
@@ -282,13 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00030" summary="5">
-      <created>1531073869733</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1531073869733</updated>
     </task>
     <task id="LOCAL-00031" summary="5">
       <created>1531089180271</created>
@@ -626,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535570105615</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="543">
+      <created>1535570990019</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1535570990019</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView">
@@ -721,13 +711,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/374-guessNumberHigherOrLower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/387-firstUniqueCharacterInaString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1064,14 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/558-intersect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-2125986627/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1083,7 +1058,23 @@
     <entry file="file://$PROJECT_DIR$/559-maxDepth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="67" />
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/558-intersect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/561-arrayPairSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>
