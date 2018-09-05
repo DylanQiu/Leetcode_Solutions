@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/669-trimBST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/671-findSecondMinimumValue.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="669-trimBST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="669-trimBST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/669-trimBST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="671-findSecondMinimumValue.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/671-findSecondMinimumValue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -77,8 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/458-poorPigs.py" />
-        <option value="$PROJECT_DIR$/459-repeatedSubstringPattern.py" />
         <option value="$PROJECT_DIR$/461-hammingDistance.py" />
         <option value="$PROJECT_DIR$/463-islandPerimeter.py" />
         <option value="$PROJECT_DIR$/475-heaters.py" />
@@ -128,6 +136,8 @@
         <option value="$PROJECT_DIR$/661-imageSmoother.py" />
         <option value="$PROJECT_DIR$/665-checkPossibility.py" />
         <option value="$PROJECT_DIR$/669-trimBST.py" />
+        <option value="$PROJECT_DIR$/671-findSecondMinimumVale.py" />
+        <option value="$PROJECT_DIR$/671-findSecondMinimumValue.py" />
       </list>
     </option>
   </component>
@@ -302,13 +312,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00055" summary="461">
-      <created>1533136958456</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1533136958457</updated>
     </task>
     <task id="LOCAL-00056" summary="461">
       <created>1533137362018</created>
@@ -646,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536032630624</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="575">
+      <created>1536162782714</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1536162782715</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TodoView">
@@ -743,13 +753,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/461-hammingDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/463-islandPerimeter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1095,6 +1098,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/671-findSecondMinimumValue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
           <folding />
         </state>
       </provider>
