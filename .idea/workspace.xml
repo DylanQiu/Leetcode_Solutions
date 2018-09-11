@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/671-findSecondMinimumValue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/46-permute.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,51 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="645-findErrorNums.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/645-findErrorNums.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="653-findTarget.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/653-findTarget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="665-checkPossibility.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/665-checkPossibility.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="669-trimBST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/669-trimBST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="671-findSecondMinimumValue.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="671-findSecondMinimumValue.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/671-findSecondMinimumValue.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="46-permute.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/46-permute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -87,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/461-hammingDistance.py" />
         <option value="$PROJECT_DIR$/463-islandPerimeter.py" />
         <option value="$PROJECT_DIR$/475-heaters.py" />
         <option value="$PROJECT_DIR$/476-numberComplement.py" />
@@ -138,14 +107,15 @@
         <option value="$PROJECT_DIR$/669-trimBST.py" />
         <option value="$PROJECT_DIR$/671-findSecondMinimumVale.py" />
         <option value="$PROJECT_DIR$/671-findSecondMinimumValue.py" />
+        <option value="$PROJECT_DIR$/46-permute.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="988" />
+    <option name="x" value="47" />
     <option name="y" value="22" />
     <option name="width" value="934" />
-    <option name="height" value="1058" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -196,8 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.665-checkPossibility">
-    <configuration name="504-base7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.46-permute">
+    <configuration name="46-permute" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -209,7 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_Solutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/504-base7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46-permute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +253,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.504-base7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.532-findPairs" />
-      <item index="2" class="java.lang.String" itemvalue="Python.538-convertBST" />
-      <item index="3" class="java.lang.String" itemvalue="Python.589-preorder" />
-      <item index="4" class="java.lang.String" itemvalue="Python.665-checkPossibility" />
+      <item index="0" class="java.lang.String" itemvalue="Python.532-findPairs" />
+      <item index="1" class="java.lang.String" itemvalue="Python.538-convertBST" />
+      <item index="2" class="java.lang.String" itemvalue="Python.589-preorder" />
+      <item index="3" class="java.lang.String" itemvalue="Python.665-checkPossibility" />
+      <item index="4" class="java.lang.String" itemvalue="Python.46-permute" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.665-checkPossibility" />
-        <item index="1" class="java.lang.String" itemvalue="Python.589-preorder" />
-        <item index="2" class="java.lang.String" itemvalue="Python.538-convertBST" />
-        <item index="3" class="java.lang.String" itemvalue="Python.532-findPairs" />
-        <item index="4" class="java.lang.String" itemvalue="Python.504-base7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.46-permute" />
+        <item index="1" class="java.lang.String" itemvalue="Python.665-checkPossibility" />
+        <item index="2" class="java.lang.String" itemvalue="Python.589-preorder" />
+        <item index="3" class="java.lang.String" itemvalue="Python.538-convertBST" />
+        <item index="4" class="java.lang.String" itemvalue="Python.532-findPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -312,13 +282,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00056" summary="461">
-      <created>1533137362018</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1533137362018</updated>
     </task>
     <task id="LOCAL-00057" summary="461">
       <created>1533141071976</created>
@@ -656,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536162782715</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="671">
+      <created>1536166998573</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1536166998573</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TodoView">
@@ -669,15 +639,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="988" y="22" width="934" height="1058" extended-state="0" />
+    <frame x="47" y="22" width="934" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3172646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32399103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796487" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19003116" sideWeight="0.5089686" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2596054" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19003116" sideWeight="0.49103138" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.49552572" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2591508" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18887262" sideWeight="0.49103138" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650074" sideWeight="0.49552572" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945533" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796487" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -746,20 +716,14 @@
     <MESSAGE value="543" />
     <MESSAGE value="561" />
     <MESSAGE value="575" />
-    <option name="LAST_COMMIT_MESSAGE" value="575" />
+    <MESSAGE value="671" />
+    <option name="LAST_COMMIT_MESSAGE" value="671" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/463-islandPerimeter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/475-heaters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1060,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1090,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1098,14 +1059,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/671-findSecondMinimumValue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46-permute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding />
         </state>
       </provider>
