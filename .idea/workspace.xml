@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3028d29-e47d-47fb-b96e-8666ee510243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23-mergeKList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-search.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="23-mergeKList.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="23-mergeKList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/23-mergeKList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="285">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="33-search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/33-search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -97,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/475-heaters.py" />
         <option value="$PROJECT_DIR$/476-numberComplement.py" />
         <option value="$PROJECT_DIR$/479-largestPalindrome.py" />
         <option value="$PROJECT_DIR$/482-licenseKeyFormatting.py" />
@@ -148,14 +157,15 @@
         <option value="$PROJECT_DIR$/671-findSecondMinimumValue.py" />
         <option value="$PROJECT_DIR$/46-permute.py" />
         <option value="$PROJECT_DIR$/23-mergeKList.py" />
+        <option value="$PROJECT_DIR$/33-search.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
     <option name="y" value="23" />
-    <option name="width" value="974" />
-    <option name="height" value="777" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -322,13 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520693102907</updated>
-    </task>
-    <task id="LOCAL-00058" summary="461">
-      <created>1533156742040</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1533156742041</updated>
     </task>
     <task id="LOCAL-00059" summary="461">
       <created>1533163118916</created>
@@ -666,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536686109381</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="23">
+      <created>1539125741566</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1539125741567</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TodoView">
@@ -679,7 +689,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="23" width="1397" height="877" extended-state="6" />
+    <frame x="43" y="23" width="1397" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22214022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -757,20 +767,14 @@
     <MESSAGE value="561" />
     <MESSAGE value="575" />
     <MESSAGE value="671" />
-    <option name="LAST_COMMIT_MESSAGE" value="671" />
+    <MESSAGE value="23" />
+    <option name="LAST_COMMIT_MESSAGE" value="23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/476-numberComplement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/479-largestPalindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1116,8 +1120,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/23-mergeKList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33-search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>
